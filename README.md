@@ -7,7 +7,7 @@ Copyright (c) 2012-2013, The Cryptonote developers
 
 <img src="https://www.boldprivate.network/ann_images/boldannsplashxx.png">
 
-BOLD is a low-supply, private digital currency created solely and purposely with a vision to become a widely-accepted medium of exchange, but in particular, to be a safe and straight-forward store of value over time. BOLD is designed for long-term value, with a solid and dedicated team behind it.
+BOLD is a fast, low-supply, private digital currency created solely and purposely with a vision to become a widely-accepted medium of exchange, but in particular, to be a safe and straight-forward store of value over time. BOLD is designed for long-term value, with a solid and dedicated team behind it.
 
 Strong. Confidential. Anonymous.
 
