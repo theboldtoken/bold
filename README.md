@@ -5,57 +5,49 @@ Copyright (c) 2012-2013, The Cryptonote developers
 
 # BOLD
 
-[![GitHub Issues](https://img.shields.io/github/issues/cryptoluka/cryptoluka.svg?style=flat-square)](https://github.com/cryptoluka/cryptoluka/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square)
-![Release](https://img.shields.io/github/release/cryptoluka/cryptoluka.svg?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/cryptoluka/cryptoluka/latest/total.svg)
+<img src="https://www.boldprivate.network/ann_images/boldannsplashxx.png">
 
-<img src="https://www.boldprivate.network/images/isologo-bold.svg">
+BOLD is a low-supply, private digital currency created solely and purposely with a vision to become a widely-accepted medium of exchange, but in particular, to be a safe and straight-forward store of value over time. BOLD is designed for long-term value, with a solid and dedicated team behind it.
 
-Bold es la nueva Cryptomoneda de origen Chileno, la cual nace de un impulso de creatividad y las ganas de expandir el concepto de las crypto y todo lo relacionado a blockchain y sus utilidades.
+Strong. Confidential. Anonymous.
 
-Compila tu BOLD ya.
+Compiling BOLD
 
 
-## 💾 Instalación UNIX
+## 💾 UNIX Installation
 
 
 ```bash
 $ apt-get update
 $ apt-get upgrade
 $ apt-get install qtbase5-dev libssl-dev cmake git libboost1.58-all-dev build-essential g++
-$ git clone https://github.com/cryptoluka/cryptoluka
-$ cd cryptoluka/
+$ git clone https://github.com/theboldtoken/boldprivate
+$ cd boldprivate/
 $ cmake CMakeLists.txt
 $ make -j 8
 $ cd cryptonote/
 $ make -j 8
 ```
 
-## Uso
+## Use
 
-Despues de la compilación con exito, haz click en el binario BOLD. Se empieza el nodo y se sincroniza con peers. No te olvides de exportar tu llave privada antes de crear una contraseña a tu cartera.
+Once compiled, click on the BOLD binary.
 
-Se quieres minar con tu CPU, oprima el boton "Start Mining".
+This starts up the node, which will commence synchronization with peers. REMEMBER TO export your private key before creating a password to your wallet.
 
-<img src="https://i.imgur.com/PKGrDeZ.png">
+To mine with your CPU, click the "Start Mining" button.
+
+## Configuration
 
 
-## Configuración
+## Official Links
+* [Website](https://www.boldprivate.network/)
+* [Pool](http://pool.boldprivate.network)
 
-
-## Recursos
-* [Pagina Oficial](https://www.boldprivate.network/)
-* [Pool Oficial](http://pool.cryptoluka.cl)
-
-## Sociales
-* [Facebook](https://www.facebook.com/cryptoluka)
-* [Twitter](https://twitter.com/LukaCLP)
-* [Blog](https://www.cryptoluka.com/blog)
-* [Telegram Español](https://t.me/cryptoluka)
-
-## ❤️ Creditos
-* [Equipo Bold](https://github.com/cryptoluka/cryptoluka)
+## Social
+* [Facebook]()
+* [Twitter]()
+* [Telegram]()
 
 ## License
 GNU General Public License v3.0
