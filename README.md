@@ -45,9 +45,9 @@ To mine with your CPU, click the "Start Mining" button.
 * [Pool](http://pool.boldprivate.network)
 
 ## Social
-* [Facebook]()
-* [Twitter]()
-* [Telegram]()
+* [Discord](https://discord.gg/fTxRb6t)
+* [Twitter](https://twitter.com/boldprivate)
+* [Telegram](https://t.me/joinchat/DEB2t0zxzzDgRHMw6-Ngpg)
 
 ## License
 GNU General Public License v3.0
