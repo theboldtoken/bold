@@ -21,8 +21,8 @@ Compiling BOLD
 $ apt-get update
 $ apt-get upgrade
 $ apt-get install qtbase5-dev libssl-dev cmake git libboost1.58-all-dev build-essential g++
-$ git clone https://github.com/theboldtoken/boldprivate
-$ cd boldprivate/
+$ git clone https://github.com/theboldtoken/bold
+$ cd bold/
 $ cmake CMakeLists.txt
 $ make -j 8
 $ cd cryptonote/
