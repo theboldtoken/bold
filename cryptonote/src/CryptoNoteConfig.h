@@ -149,7 +149,7 @@ struct CheckpointData {
 };
 
 const CheckpointData CHECKPOINTS[] = {
-	{ 78000000, "3e7b089856003ff9706e8db0a530bfec03d91143491086a2835fcdc2a38373e0"}
+	{ 2000, "72e998c99196037b05dcf6e7573d8c0febd1f650f70c013e44ea144b416f10f8"}
 };
 }
 
