@@ -486,6 +486,7 @@ struct f_block_short_response {
 			KV_MEMBER(hash)
 			KV_MEMBER(cumul_size)
 			KV_MEMBER(tx_count)
+			KV_MEMBER(difficulty)
 	}
 };
 
