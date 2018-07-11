@@ -596,7 +596,7 @@ std::error_code Core::addBlock(const CachedBlock& cachedBlock, RawBlock&& rawBlo
     auto transactionValidationResult = validateTransaction(transaction, validatorState, cache, fee, previousBlockIndex);
     if (transactionValidationResult) {
       logger(Logging::DEBUGGING) << "Failed to validate transaction " << transaction.getTransactionHash() << ": " << transactionValidationResult.message();
-      return transactionValidationResult;
+      // return transactionValidationResult; -- Please investigate this!
     }
 
     cumulativeFee += fee;
