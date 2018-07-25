@@ -44,7 +44,7 @@ To mine with your CPU, click the "Start Mining" button.
 * [Website](https://www.boldprivate.network/)
 * [Official Pool 1](http://pool.boldprivate.network)
 * [Official Pool 2 (Europe)](http://eupool.boldprivate.network)
-* [Peers)](http://peers.boldprivate.network)
+* [Peers](http://peers.boldprivate.network)
 
 ## Social
 * [Discord](https://discord.gg/fTxRb6t)
