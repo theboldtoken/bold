@@ -138,8 +138,8 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[] = "";
 
 const char* const SEED_NODES[] = {
-	"seed1.boldprivate.network:53940",
-	"seed2.boldprivate.network:53940",
+	"209.246.143.163:53940",
+	"66.42.75.123:53940",
 	"pool.boldprivate.network:53940"
 };
 
